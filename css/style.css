@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+section {
+    background-color: #faebd6;
+    max-width: 80vw;
+    padding: 30px 40px 50px 10px;
+
+}
+
+h1 {
+    color: #ff0000;
+    font-size: 2vw;
+    margin-bottom: 60px;
+}
+
+.first-paragraph {
+    font-size: 1.5vw;
+    color: #a42423;
+    margin-bottom: 60px;
+
+}
+
+.second-paragraph {
+    font-size: 1.5vw;
+    color: #00008f;
+    margin-bottom: 60px;
+}
